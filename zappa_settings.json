@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "sleep-tracker.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "default",
+        "project_name": "sleep-tracker",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-jktzuacqq"
+    }
+}
